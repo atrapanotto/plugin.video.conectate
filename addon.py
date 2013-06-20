@@ -32,17 +32,17 @@ from xbmcswift2 import Plugin
 import resources.lib.videos_scraper as videos_scraper
 
 STRINGS = {
-    'page':               930001,
-    'encuentro_pelicula': 910101,
-    'encuentro_especial': 910102,
-    'encuentro_serie':    910103,
-    'encuentro_micros':   910104,
-    'pakapaka_serie':     920203,
-    'pakapaka_micros':    920204,
-    'ronda_serie':        830303,
-    'ronda_micros':       830304,
-    'educar_especial':  12512502,
-    'ci_especial':      12612602,
+    'page':                30001,
+    'encuentro_pelicula':  30101,
+    'encuentro_especial':  30102,
+    'encuentro_serie':     30103,
+    'encuentro_micros':    30104,
+    'pakapaka_serie':      30203,
+    'pakapaka_micros':     30204,
+    'ronda_serie':         30303,
+    'ronda_micros':        30304,
+    'educar_especial':     30502,
+    'ci_especial':         30602,
 
 }
 
